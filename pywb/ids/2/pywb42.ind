@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_CY_PAP",
+    "ownerKey": "e1b6d1d50877ab2c635a116e027dac4642c198ac",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_CY_PAP",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_CY_PAP/",
+    "userUrl": "http://www.webpagetest.org/result/150904_CY_PAP/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_CY_PAP/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_CY_PAP/requests.csv"
+  }
+}

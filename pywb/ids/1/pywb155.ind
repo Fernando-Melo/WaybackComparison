@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_17_KGB",
+    "ownerKey": "68b437a4be939031c2b0e7616099ae6bec0c7ef8",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_17_KGB",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_17_KGB/",
+    "userUrl": "http://www.webpagetest.org/result/150904_17_KGB/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_17_KGB/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_17_KGB/requests.csv"
+  }
+}

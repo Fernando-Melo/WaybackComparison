@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150915_VB_NRR",
+    "ownerKey": "5088a6085656ce4580d0db64b3e8040670005abb",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150915_VB_NRR",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150915_VB_NRR/",
+    "userUrl": "http://www.webpagetest.org/result/150915_VB_NRR/",
+    "summaryCSV": "http://www.webpagetest.org/result/150915_VB_NRR/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150915_VB_NRR/requests.csv"
+  }
+}

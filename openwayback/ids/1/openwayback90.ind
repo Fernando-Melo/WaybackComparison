@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150901_WR_X3P",
+    "ownerKey": "8ae53a62243fa0f98695cd2f05ca696761163c12",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150901_WR_X3P",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150901_WR_X3P/",
+    "userUrl": "http://www.webpagetest.org/result/150901_WR_X3P/",
+    "summaryCSV": "http://www.webpagetest.org/result/150901_WR_X3P/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150901_WR_X3P/requests.csv"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_CR_PAE",
+    "ownerKey": "23b70a6ea78d577dd6f31cab79ca081c925439ba",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_CR_PAE",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_CR_PAE/",
+    "userUrl": "http://www.webpagetest.org/result/150904_CR_PAE/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_CR_PAE/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_CR_PAE/requests.csv"
+  }
+}

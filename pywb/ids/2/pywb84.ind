@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_G3_PCQ",
+    "ownerKey": "52a24bea28aa82fea1ab76c3ed79e7dfcb35314e",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_G3_PCQ",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_G3_PCQ/",
+    "userUrl": "http://www.webpagetest.org/result/150904_G3_PCQ/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_G3_PCQ/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_G3_PCQ/requests.csv"
+  }
+}

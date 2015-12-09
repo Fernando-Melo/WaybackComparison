@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_ZG_KDE",
+    "ownerKey": "b602a562758fcc68809d705f7ff85174514b456d",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_ZG_KDE",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_ZG_KDE/",
+    "userUrl": "http://www.webpagetest.org/result/150904_ZG_KDE/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_ZG_KDE/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_ZG_KDE/requests.csv"
+  }
+}

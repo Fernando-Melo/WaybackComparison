@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150901_XP_X4N",
+    "ownerKey": "25a57b0314695ed5962e55f1c4419c5654f919e7",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150901_XP_X4N",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150901_XP_X4N/",
+    "userUrl": "http://www.webpagetest.org/result/150901_XP_X4N/",
+    "summaryCSV": "http://www.webpagetest.org/result/150901_XP_X4N/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150901_XP_X4N/requests.csv"
+  }
+}

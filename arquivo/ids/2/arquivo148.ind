@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150915_SJ_NSG",
+    "ownerKey": "ce386736a2a01ab26317d8440bf2c0fa4963abde",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150915_SJ_NSG",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150915_SJ_NSG/",
+    "userUrl": "http://www.webpagetest.org/result/150915_SJ_NSG/",
+    "summaryCSV": "http://www.webpagetest.org/result/150915_SJ_NSG/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150915_SJ_NSG/requests.csv"
+  }
+}

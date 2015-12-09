@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150917_RB_NEM",
+    "ownerKey": "b86373485370efb7666f44a769919e0b17347eef",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150917_RB_NEM",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150917_RB_NEM/",
+    "userUrl": "http://www.webpagetest.org/result/150917_RB_NEM/",
+    "summaryCSV": "http://www.webpagetest.org/result/150917_RB_NEM/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150917_RB_NEM/requests.csv"
+  }
+}

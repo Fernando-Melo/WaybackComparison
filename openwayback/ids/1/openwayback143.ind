@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150901_RY_X64",
+    "ownerKey": "679bb248c6ef4216059f6e70a9bc800bf069c57a",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150901_RY_X64",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150901_RY_X64/",
+    "userUrl": "http://www.webpagetest.org/result/150901_RY_X64/",
+    "summaryCSV": "http://www.webpagetest.org/result/150901_RY_X64/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150901_RY_X64/requests.csv"
+  }
+}

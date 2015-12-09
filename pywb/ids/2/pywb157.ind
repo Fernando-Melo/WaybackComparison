@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_TA_PFD",
+    "ownerKey": "5f0fd3f05205789f8698293fa7893d948d7ec7a9",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_TA_PFD",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_TA_PFD/",
+    "userUrl": "http://www.webpagetest.org/result/150904_TA_PFD/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_TA_PFD/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_TA_PFD/requests.csv"
+  }
+}

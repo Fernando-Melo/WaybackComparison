@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_2G_PDA",
+    "ownerKey": "a42a81ad18b5df6b6a69ede8bb008b624b0b63d0",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_2G_PDA",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_2G_PDA/",
+    "userUrl": "http://www.webpagetest.org/result/150904_2G_PDA/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_2G_PDA/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_2G_PDA/requests.csv"
+  }
+}

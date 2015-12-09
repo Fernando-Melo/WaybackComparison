@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_GJ_PAR",
+    "ownerKey": "740e227409ee6749843d38dc18a25bf0c3e9bdf2",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_GJ_PAR",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_GJ_PAR/",
+    "userUrl": "http://www.webpagetest.org/result/150904_GJ_PAR/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_GJ_PAR/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_GJ_PAR/requests.csv"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_NK_PFC",
+    "ownerKey": "966daba822d666f00d049ee386289bbc006e7728",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_NK_PFC",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_NK_PFC/",
+    "userUrl": "http://www.webpagetest.org/result/150904_NK_PFC/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_NK_PFC/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_NK_PFC/requests.csv"
+  }
+}

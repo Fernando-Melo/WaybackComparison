@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_CP_KBZ",
+    "ownerKey": "75c351511f65f4e299891aa16a5c0b7b1d413453",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_CP_KBZ",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_CP_KBZ/",
+    "userUrl": "http://www.webpagetest.org/result/150904_CP_KBZ/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_CP_KBZ/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_CP_KBZ/requests.csv"
+  }
+}

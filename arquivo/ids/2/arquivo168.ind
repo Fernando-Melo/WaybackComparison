@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150915_FC_NTB",
+    "ownerKey": "7a8563b323d442696210a9a86ab326793f970284",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150915_FC_NTB",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150915_FC_NTB/",
+    "userUrl": "http://www.webpagetest.org/result/150915_FC_NTB/",
+    "summaryCSV": "http://www.webpagetest.org/result/150915_FC_NTB/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150915_FC_NTB/requests.csv"
+  }
+}

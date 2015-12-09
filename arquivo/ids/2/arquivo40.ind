@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150915_4S_NFC",
+    "ownerKey": "b4c72e787c73b74dad5983a044c11ae45189c534",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150915_4S_NFC",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150915_4S_NFC/",
+    "userUrl": "http://www.webpagetest.org/result/150915_4S_NFC/",
+    "summaryCSV": "http://www.webpagetest.org/result/150915_4S_NFC/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150915_4S_NFC/requests.csv"
+  }
+}

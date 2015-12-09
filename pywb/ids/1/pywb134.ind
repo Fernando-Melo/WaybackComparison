@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_TC_KFE",
+    "ownerKey": "6ae347256edb45be3ed54b19c9627302dc6d56c0",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_TC_KFE",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_TC_KFE/",
+    "userUrl": "http://www.webpagetest.org/result/150904_TC_KFE/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_TC_KFE/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_TC_KFE/requests.csv"
+  }
+}

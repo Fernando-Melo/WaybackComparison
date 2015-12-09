@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150901_TZ_X86",
+    "ownerKey": "28185c0c8bdab4f5bafce7a4b1c2caf73e16be6a",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150901_TZ_X86",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150901_TZ_X86/",
+    "userUrl": "http://www.webpagetest.org/result/150901_TZ_X86/",
+    "summaryCSV": "http://www.webpagetest.org/result/150901_TZ_X86/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150901_TZ_X86/requests.csv"
+  }
+}

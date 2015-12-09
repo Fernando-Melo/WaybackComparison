@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150901_EF_ZDN",
+    "ownerKey": "8adf1f705f26d3854002beb3b205b740916ae224",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150901_EF_ZDN",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150901_EF_ZDN/",
+    "userUrl": "http://www.webpagetest.org/result/150901_EF_ZDN/",
+    "summaryCSV": "http://www.webpagetest.org/result/150901_EF_ZDN/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150901_EF_ZDN/requests.csv"
+  }
+}

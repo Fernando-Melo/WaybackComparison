@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150901_KA_YPR",
+    "ownerKey": "b4120b1284a5031e1fe11d5485841aa64911e831",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150901_KA_YPR",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150901_KA_YPR/",
+    "userUrl": "http://www.webpagetest.org/result/150901_KA_YPR/",
+    "summaryCSV": "http://www.webpagetest.org/result/150901_KA_YPR/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150901_KA_YPR/requests.csv"
+  }
+}

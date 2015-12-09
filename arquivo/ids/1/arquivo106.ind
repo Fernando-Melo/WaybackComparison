@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150917_TP_NKZ",
+    "ownerKey": "82d7d16016184bd667c328a0baf26cb8e64d4fe6",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150917_TP_NKZ",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150917_TP_NKZ/",
+    "userUrl": "http://www.webpagetest.org/result/150917_TP_NKZ/",
+    "summaryCSV": "http://www.webpagetest.org/result/150917_TP_NKZ/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150917_TP_NKZ/requests.csv"
+  }
+}

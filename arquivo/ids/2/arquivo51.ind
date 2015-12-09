@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150915_DX_NFW",
+    "ownerKey": "6cadb9ee080da1bffe792ae1696f58990f8eced2",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150915_DX_NFW",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150915_DX_NFW/",
+    "userUrl": "http://www.webpagetest.org/result/150915_DX_NFW/",
+    "summaryCSV": "http://www.webpagetest.org/result/150915_DX_NFW/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150915_DX_NFW/requests.csv"
+  }
+}

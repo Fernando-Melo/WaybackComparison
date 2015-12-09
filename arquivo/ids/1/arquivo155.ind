@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150917_45_NPC",
+    "ownerKey": "3fcd8fa1b9bd05098c0812a109bcb05994617003",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150917_45_NPC",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150917_45_NPC/",
+    "userUrl": "http://www.webpagetest.org/result/150917_45_NPC/",
+    "summaryCSV": "http://www.webpagetest.org/result/150917_45_NPC/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150917_45_NPC/requests.csv"
+  }
+}

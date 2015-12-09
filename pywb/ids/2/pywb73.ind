@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_EK_PBY",
+    "ownerKey": "12d11e0c68aaa5fee3fb28ca6107e4878a0af06d",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_EK_PBY",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_EK_PBY/",
+    "userUrl": "http://www.webpagetest.org/result/150904_EK_PBY/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_EK_PBY/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_EK_PBY/requests.csv"
+  }
+}

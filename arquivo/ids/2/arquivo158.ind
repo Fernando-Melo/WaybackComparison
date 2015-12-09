@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150915_79_NSW",
+    "ownerKey": "69a8e90dd188eb11b34fc02891b4700fd1b2c903",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150915_79_NSW",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150915_79_NSW/",
+    "userUrl": "http://www.webpagetest.org/result/150915_79_NSW/",
+    "summaryCSV": "http://www.webpagetest.org/result/150915_79_NSW/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150915_79_NSW/requests.csv"
+  }
+}

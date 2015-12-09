@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_ND_PCT",
+    "ownerKey": "40f9e2b42347192ddecba855a1e4fa5b3b940cbf",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_ND_PCT",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_ND_PCT/",
+    "userUrl": "http://www.webpagetest.org/result/150904_ND_PCT/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_ND_PCT/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_ND_PCT/requests.csv"
+  }
+}

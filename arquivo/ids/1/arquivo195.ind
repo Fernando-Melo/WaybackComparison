@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150917_TX_NRF",
+    "ownerKey": "4deba96df6e68814def270a232ac12011eed4fe1",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150917_TX_NRF",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150917_TX_NRF/",
+    "userUrl": "http://www.webpagetest.org/result/150917_TX_NRF/",
+    "summaryCSV": "http://www.webpagetest.org/result/150917_TX_NRF/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150917_TX_NRF/requests.csv"
+  }
+}

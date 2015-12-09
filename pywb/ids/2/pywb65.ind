@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_TC_PBM",
+    "ownerKey": "d84a5d1ed2d4868fef56cd76fcc3eb9b76292308",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_TC_PBM",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_TC_PBM/",
+    "userUrl": "http://www.webpagetest.org/result/150904_TC_PBM/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_TC_PBM/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_TC_PBM/requests.csv"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_KB_KAM",
+    "ownerKey": "96949864f55540eab615510cfd8d9ccb5f80beb2",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_KB_KAM",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_KB_KAM/",
+    "userUrl": "http://www.webpagetest.org/result/150904_KB_KAM/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_KB_KAM/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_KB_KAM/requests.csv"
+  }
+}

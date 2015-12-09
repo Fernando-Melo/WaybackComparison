@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150904_3J_PAD",
+    "ownerKey": "f709b32ede7b07f2ee5ccef66acfa827c0fcbd72",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150904_3J_PAD",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150904_3J_PAD/",
+    "userUrl": "http://www.webpagetest.org/result/150904_3J_PAD/",
+    "summaryCSV": "http://www.webpagetest.org/result/150904_3J_PAD/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150904_3J_PAD/requests.csv"
+  }
+}

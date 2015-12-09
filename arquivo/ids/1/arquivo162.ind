@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150917_1A_NPR",
+    "ownerKey": "0ff63c2ce4bf6639b5005b15445c0491ca9e04b8",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150917_1A_NPR",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150917_1A_NPR/",
+    "userUrl": "http://www.webpagetest.org/result/150917_1A_NPR/",
+    "summaryCSV": "http://www.webpagetest.org/result/150917_1A_NPR/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150917_1A_NPR/requests.csv"
+  }
+}

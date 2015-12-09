@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "150901_0H_X20",
+    "ownerKey": "2cd486f1977364b7d3855b9f03e99139cb0c6ec2",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=150901_0H_X20",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/150901_0H_X20/",
+    "userUrl": "http://www.webpagetest.org/result/150901_0H_X20/",
+    "summaryCSV": "http://www.webpagetest.org/result/150901_0H_X20/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/150901_0H_X20/requests.csv"
+  }
+}
