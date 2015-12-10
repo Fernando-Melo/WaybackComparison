@@ -1,4 +1,4 @@
-# WaybackComparison
+# Wayback Comparison
 A Comparison Between The Performance of Wayback Machines
 
 <b>TestedURLS.txt</b> contains the list of urls tested in this study.
