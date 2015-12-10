@@ -1,4 +1,6 @@
 # WaybackComparison
-Resources for the report: A Comparison Between The Performance of Wayback Machines
+A Comparison Between The Performance of Wayback Machines
 
-This project contains the list of urls that were tested in the study: A Comparison Between The Performance of Wayback Machines
+"TestedURLS.txt" contains the list of urls tested in this study.
+There is a separated folder for each Wayback, which includes a subfolder with the name <b>hars</b> with the obtained results for the Wayback.
+
