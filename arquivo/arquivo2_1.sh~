@@ -1,7 +1,0 @@
-#!/bin/bash
-var = 0
-while IFS='' read -r line || [[ -n "$line" ]]; do
-    echo "Text read from file: $line"
-    webpagetest test "$line" --key A.28beaf46cbfaf6034fb08af42856b0eb -f > "./ids/2/arquivo$var.ind"
-    var=$((var+1))
-done < "$1"
