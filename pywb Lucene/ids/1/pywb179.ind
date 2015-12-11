@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_BF_MGG",
+    "ownerKey": "84809beb7fec6a8d9ee76af5ddea1ebbaf3c75c6",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_BF_MGG",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_BF_MGG/",
+    "userUrl": "http://www.webpagetest.org/result/151028_BF_MGG/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_BF_MGG/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_BF_MGG/requests.csv"
+  }
+}

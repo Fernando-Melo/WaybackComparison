@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_K6_MEG",
+    "ownerKey": "ff801f6cae8604c01515ab87588d283b600a85d7",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_K6_MEG",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_K6_MEG/",
+    "userUrl": "http://www.webpagetest.org/result/151028_K6_MEG/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_K6_MEG/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_K6_MEG/requests.csv"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_EF_MXM",
+    "ownerKey": "3fa920e7610ce58ec553e4a1c036f0e4c6a33190",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_EF_MXM",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_EF_MXM/",
+    "userUrl": "http://www.webpagetest.org/result/151028_EF_MXM/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_EF_MXM/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_EF_MXM/requests.csv"
+  }
+}

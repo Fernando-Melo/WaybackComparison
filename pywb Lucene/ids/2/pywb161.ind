@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_JY_MYA",
+    "ownerKey": "64ddc83eb35b1590c642212584f8e4471a090d63",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_JY_MYA",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_JY_MYA/",
+    "userUrl": "http://www.webpagetest.org/result/151028_JY_MYA/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_JY_MYA/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_JY_MYA/requests.csv"
+  }
+}

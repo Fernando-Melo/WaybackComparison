@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_EE_MEW",
+    "ownerKey": "d1bb158b6ccfbd82b2cff6a13e15ceb9421b0c28",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_EE_MEW",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_EE_MEW/",
+    "userUrl": "http://www.webpagetest.org/result/151028_EE_MEW/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_EE_MEW/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_EE_MEW/requests.csv"
+  }
+}

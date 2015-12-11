@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_KX_MDF",
+    "ownerKey": "e01dffd702ae71ddefdd753cc6f683b4af65b365",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_KX_MDF",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_KX_MDF/",
+    "userUrl": "http://www.webpagetest.org/result/151028_KX_MDF/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_KX_MDF/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_KX_MDF/requests.csv"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_RY_MTA",
+    "ownerKey": "d548fdff96a5c8c2127a0ba3fe6dd7921f8b7f4f",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_RY_MTA",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_RY_MTA/",
+    "userUrl": "http://www.webpagetest.org/result/151028_RY_MTA/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_RY_MTA/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_RY_MTA/requests.csv"
+  }
+}

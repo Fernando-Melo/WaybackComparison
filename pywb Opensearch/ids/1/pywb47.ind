@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_RG_MAZ",
+    "ownerKey": "65c8faffd2b33a6671335b73c20a3e05974ae40b",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_RG_MAZ",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_RG_MAZ/",
+    "userUrl": "http://www.webpagetest.org/result/151028_RG_MAZ/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_RG_MAZ/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_RG_MAZ/requests.csv"
+  }
+}

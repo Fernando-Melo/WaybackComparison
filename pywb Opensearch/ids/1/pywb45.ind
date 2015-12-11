@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_XB_MAX",
+    "ownerKey": "28b44abc8585ed8e1ddacee3cdd5e7f30fef900d",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_XB_MAX",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_XB_MAX/",
+    "userUrl": "http://www.webpagetest.org/result/151028_XB_MAX/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_XB_MAX/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_XB_MAX/requests.csv"
+  }
+}

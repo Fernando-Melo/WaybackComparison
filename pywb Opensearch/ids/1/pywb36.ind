@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_JH_MAG",
+    "ownerKey": "ed76511e5298d8dcaeeceb388dcb07bb84b7d7c1",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_JH_MAG",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_JH_MAG/",
+    "userUrl": "http://www.webpagetest.org/result/151028_JH_MAG/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_JH_MAG/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_JH_MAG/requests.csv"
+  }
+}

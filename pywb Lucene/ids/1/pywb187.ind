@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_2M_MGX",
+    "ownerKey": "492a09395d59cbb3c3c84fd1804248202619a9f7",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_2M_MGX",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_2M_MGX/",
+    "userUrl": "http://www.webpagetest.org/result/151028_2M_MGX/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_2M_MGX/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_2M_MGX/requests.csv"
+  }
+}

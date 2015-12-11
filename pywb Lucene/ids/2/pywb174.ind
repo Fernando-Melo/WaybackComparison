@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_3G_MYZ",
+    "ownerKey": "ae65a92f0748bc57568e91173c79691dba946c46",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_3G_MYZ",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_3G_MYZ/",
+    "userUrl": "http://www.webpagetest.org/result/151028_3G_MYZ/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_3G_MYZ/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_3G_MYZ/requests.csv"
+  }
+}

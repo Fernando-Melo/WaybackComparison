@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_PW_MAM",
+    "ownerKey": "687b7dc7f5d2a68899d405b02c4238d869ae9432",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_PW_MAM",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_PW_MAM/",
+    "userUrl": "http://www.webpagetest.org/result/151028_PW_MAM/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_PW_MAM/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_PW_MAM/requests.csv"
+  }
+}

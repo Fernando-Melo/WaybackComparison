@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_HR_MXC",
+    "ownerKey": "91197b8bcd8bb49dd0784f90d0f0ea6635d8a715",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_HR_MXC",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_HR_MXC/",
+    "userUrl": "http://www.webpagetest.org/result/151028_HR_MXC/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_HR_MXC/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_HR_MXC/requests.csv"
+  }
+}

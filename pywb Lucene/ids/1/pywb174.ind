@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_B7_MGA",
+    "ownerKey": "b5d11709a29e52b6fc4935e30d24c7935909d3f9",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_B7_MGA",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_B7_MGA/",
+    "userUrl": "http://www.webpagetest.org/result/151028_B7_MGA/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_B7_MGA/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_B7_MGA/requests.csv"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_NZ_MRY",
+    "ownerKey": "7d2254c4b8ea4196c14a885b66213d84f0447e51",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_NZ_MRY",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_NZ_MRY/",
+    "userUrl": "http://www.webpagetest.org/result/151028_NZ_MRY/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_NZ_MRY/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_NZ_MRY/requests.csv"
+  }
+}

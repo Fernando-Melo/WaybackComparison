@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_BQ_MZN",
+    "ownerKey": "6cba456034716e909a0ce57cf28ec0befb1bdb7c",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_BQ_MZN",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_BQ_MZN/",
+    "userUrl": "http://www.webpagetest.org/result/151028_BQ_MZN/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_BQ_MZN/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_BQ_MZN/requests.csv"
+  }
+}

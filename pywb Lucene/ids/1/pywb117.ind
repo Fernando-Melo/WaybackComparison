@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_TG_MDR",
+    "ownerKey": "2212e4ed0a71b76325ef898d5f8e34e65b40a706",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_TG_MDR",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_TG_MDR/",
+    "userUrl": "http://www.webpagetest.org/result/151028_TG_MDR/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_TG_MDR/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_TG_MDR/requests.csv"
+  }
+}

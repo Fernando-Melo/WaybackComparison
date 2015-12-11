@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_JJ_MGD",
+    "ownerKey": "56d5937bce20328d7f6c762bb9e1d2a17d479815",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_JJ_MGD",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_JJ_MGD/",
+    "userUrl": "http://www.webpagetest.org/result/151028_JJ_MGD/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_JJ_MGD/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_JJ_MGD/requests.csv"
+  }
+}

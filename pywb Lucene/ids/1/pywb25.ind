@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_TZ_MA5",
+    "ownerKey": "3ba7107e2083ea9ff4bea76c359e59ddbce58bb1",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_TZ_MA5",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_TZ_MA5/",
+    "userUrl": "http://www.webpagetest.org/result/151028_TZ_MA5/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_TZ_MA5/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_TZ_MA5/requests.csv"
+  }
+}

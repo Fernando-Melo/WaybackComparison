@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_NX_MDE",
+    "ownerKey": "0ef8f0ca164c5e767ecf38f62b70e7349a104381",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_NX_MDE",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_NX_MDE/",
+    "userUrl": "http://www.webpagetest.org/result/151028_NX_MDE/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_NX_MDE/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_NX_MDE/requests.csv"
+  }
+}

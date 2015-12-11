@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_TN_MB3",
+    "ownerKey": "71ea867c83db94c1a044ed36bfc66f06df4a818b",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_TN_MB3",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_TN_MB3/",
+    "userUrl": "http://www.webpagetest.org/result/151028_TN_MB3/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_TN_MB3/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_TN_MB3/requests.csv"
+  }
+}

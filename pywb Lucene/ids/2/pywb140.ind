@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "151028_DB_MXE",
+    "ownerKey": "0e4094b72be8dd5372b85fd48a95994d7f4d8209",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=151028_DB_MXE",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/151028_DB_MXE/",
+    "userUrl": "http://www.webpagetest.org/result/151028_DB_MXE/",
+    "summaryCSV": "http://www.webpagetest.org/result/151028_DB_MXE/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/151028_DB_MXE/requests.csv"
+  }
+}
